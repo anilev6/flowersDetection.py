@@ -1,5 +1,11 @@
 \vids
+
 \randomPics
 \randomPicOriginals
+
+\splitPics
+\splitPicsCompressed
+
 *.csv
+
 *.lock
